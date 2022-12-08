@@ -1,19 +1,18 @@
 .Datos{
-    background-color: lightgray; 
-    font-family: Arial;
-    text-align: center;
+    background-color: lightgray;   /* Agregamos color de fondo */
+    font-family: Arial;     /* Cambiamos la fuente a Arial */
+    text-align: center;     /* Alineamos texto al centro */
+    font-size: 18px;
     
 }
 
 .Tabla1{
-    display: flex;
+    display: flex;      /* Centramos la tabla usando un div */
     justify-content: center;
     height: 125px;
-    
-
 }
 
-.titulo {
+.titulo {               /* Le cambiamos el color al titulo de la tabla */
     background-color: lightblue;
-    padding: 0;
+    
 }
