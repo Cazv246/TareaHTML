@@ -10,3 +10,5 @@ git remote add origin https://github.com/Cazv246/TareaHTML.git
 5. subimos los archivos
 git branch -M main
 git push -u origin main
+
+Nombre: Cristhian Adrian Zevallos Veliz
