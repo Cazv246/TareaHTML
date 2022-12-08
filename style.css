@@ -1,1 +1,19 @@
+.Datos{
+    background-color: lightgray; 
+    font-family: Arial;
+    text-align: center;
+    
+}
 
+.Tabla1{
+    display: flex;
+    justify-content: center;
+    height: 125px;
+    
+
+}
+
+.titulo {
+    background-color: lightblue;
+    padding: 0;
+}
